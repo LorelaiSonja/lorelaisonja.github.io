@@ -5,11 +5,3 @@ description: Your website description goes here
 theme: jekyll-theme-cayman # Replace with the Jekyll theme you want to use
 
 show_downloads: true 
-
-# Build settings
-markdown: kramdown
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor
