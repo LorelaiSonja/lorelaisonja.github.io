@@ -1,0 +1,19 @@
+# Site settings
+title: Lorelai Sonja
+#logo:/
+description: Your website description goes here
+theme: jekyll-theme-hyde # Replace with the Jekyll theme you want to use
+
+show_downloads: true 
+
+# GitHub Pages settings
+remote_theme: jekyll/hyde # Replace with the GitHub theme you want to use (if any)
+permalink: pretty
+
+# Build settings
+markdown: kramdown
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
