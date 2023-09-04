@@ -16,11 +16,10 @@
 
 ## Projects
 ### Project Name
-#link to project[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+
 
 summary of project
 
-#![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
 
 ## Talks & Lectures
